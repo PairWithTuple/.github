@@ -5,7 +5,7 @@
 ### The best remote pair programming app on macOS and Windows
 
 [![Website](https://img.shields.io/badge/tuple.app-6A5ED9?style=for-the-badge)](https://tuple.app/github)
-[![YouTube](https://img.shields.io/badge/YouTube-FFFFFF?style=for-the-badge)](https://youtube.com/@tupleapp) 
+[![YouTube](https://img.shields.io/badge/YouTube-FFFFFF?style=for-the-badge)](https://www.youtube.com/@tuple-app) 
 [![X](https://img.shields.io/badge/Twitter&nbsp;(X)-FFFFFF?style=for-the-badge)](https://twitter.com/tuple)
 
 </div>
