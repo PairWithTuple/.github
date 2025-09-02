@@ -17,13 +17,13 @@
 
 ---
 
-## Why Tuple?
+## Generic screen sharing tools suck
 
-We built Tuple from the ground up to deliver **razor-sharp screen sharing**, **crisp audio**, and **seamless remote control**. 
+They're fine for meetings. But for coding? They break flow and don't support the highly interactive process of remote pair programming. 
 
-No compromises. Just flow.
+That's why we built Tuple; because engineers deserve sharp tools.
 
-## Features That Matter
+## Tuple
 
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -34,35 +34,14 @@ No compromises. Just flow.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-## Built For Real Work
-
-> *"The best collaboration tool we've ever used. Period."*  
-Used by Engineering teams at **Shopify**, **Figma**, and **Clerk**
-
-## Our Philosophy
-
-- **Performance first** — Every millisecond counts
-- **Privacy always** — Your code, your control  
-- **Developer experience** — Tools should get out of your way
-
 ## Get Started
 
-```bash
-# macOS
-brew install --cask tuple
-
-# Windows
-winget install Tuple.Tuple
-```
-
-Or download directly from [tuple.app](https://tuple.app)
+[Start a free 14-day trial](https://production.tuple.app/signups/new)
 
 ---
 
 <div align="center">
   
-**Pair programming the way it should be.**
-
-[Website](https://tuple.app) • [Documentation](https://docs.tuple.app) • [Blog](https://tuple.app/blog) • [Support](https://tuple.app/support)
+[Website](https://tuple.app) • [Documentation](https://docs.tuple.app) • [Support](mailto=support@tuple.app)
 
 </div>
