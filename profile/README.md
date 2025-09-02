@@ -10,13 +10,7 @@
 
 </div>
 
-## Generic screen sharing tools suck
-
-They're fine for meetings. But for coding? They break flow and don't support the highly interactive process of remote pair programming. 
-
-That's why we built Tuple; because engineers deserve sharp tools.
-
-## Tuple
+---
 
 Developers deserve purpose-built tools.
 
@@ -34,9 +28,13 @@ It's been a ton of work, but we finally have something we've always wanted: a fa
 
 We're proud of Tuple, and we hope you like it.
 
-## Get Started
+---
 
-[Start a free 14-day trial](https://production.tuple.app/signups/new)
+<div align="center">
+  
+[![Get Started](https://img.shields.io/badge/Get&nbsp;Started-6A5ED9?style=for-the-badge)](https://production.tuple.app/signups/new)
+
+</div>
 
 ---
 
