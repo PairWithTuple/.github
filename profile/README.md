@@ -9,14 +9,6 @@
 
 </div>
 
----
-
-<div align="center">
-  <strong>Built for engineers who deserve sharp tools.</strong>
-</div>
-
----
-
 ## Generic screen sharing tools suck
 
 They're fine for meetings. But for coding? They break flow and don't support the highly interactive process of remote pair programming. 
